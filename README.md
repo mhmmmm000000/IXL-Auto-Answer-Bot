@@ -1,63 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Download README.md</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #0d1117;
-            color: #c9d1d9;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .container {
-            text-align: center;
-            background-color: #161b22;
-            padding: 40px;
-            border-radius: 12px;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
-            border: 1px solid #30363d;
-        }
-        h1 {
-            color: #58a6ff;
-            margin-bottom: 10px;
-        }
-        p {
-            margin-bottom: 30px;
-            color: #8b949e;
-        }
-        .btn {
-            background-color: #238636;
-            color: #ffffff;
-            border: none;
-            padding: 15px 30px;
-            font-size: 18px;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: background-color 0.2s;
-            text-decoration: none;
-            display: inline-block;
-        }
-        .btn:hover {
-            background-color: #2ea043;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>README.md Ready!</h1>
-        <p>Click the button below to download your fully formatted file.</p>
-        <a id="downloadLink" class="btn" download="README.md">📥 Download README.md</a>
-    </div>
-
-    <script>
-        const readmeContent = `<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=IXL%20God%20Mode&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI-Powered%20Math%20Automation%20Suite%20%7C%20Stealth%20GUI%20%7C%20Cross-Platform&descSize=16&descAlignY=55&descColor=ccc"/>
 
@@ -73,7 +13,7 @@
 > **Automate the grind. Master the math. Stay invisible.**  
 > A standalone, AI-driven web automation suite with stealth GUI, grade farming, and anti-detection.
 
-[📥 Download Releases](#-download) · [✨ Features](#-features) · [⚙️ Setup](#-setup--configuration) · [🥷 Stealth](#-stealth--hotkeys) · [🤝 Contributing](#-contributing) · [⭐ Support](#-support-the-project)
+[📥 Download Releases](#-download) · [✨ Features](#-features) · [⚙️ Setup](#-setup--configuration) · [🥷 Stealth](#-stealth--hotkeys) · [📖 Docs](#-documentation) · [🤝 Contributing](#-contributing) · [⭐ Support](#-support-the-project)
 
 </div>
 
@@ -99,7 +39,7 @@
 ║             ⚠️ PANIC MODE (F12) ⚠️                ║
 ╚════════════════════════════════════════════════════╝
 \`\`\`
-Disguise Mode transforms the interface into a fully working calculator
+*Disguise Mode transforms the interface into a fully working calculator*
 </div>
 
 ## ✨ Features
@@ -127,24 +67,22 @@ Disguise Mode transforms the interface into a fully working calculator
 
 | Platform | Support |
 |---|---|
-| 🪟 Windows | Standalone .exe (no Python required) |
+| 🪟 Windows | Standalone .exe (no setup or external dependencies required) |
 | 🍎 Mac | One-click launcher script (Start_Mac.command) |
 | 🐧 Linux | One-click launcher script (Start_Linux.sh) |
 
 ## 📥 Download
 
-> ⚠️ Release files are located in the [Releases](https://github.com/) tab, not in this repository root.
+> ⚠️ Release files are located in the [Releases](https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/releases) tab, not in this repository root.
 
 | Platform | File | Instructions |
 |---|---|---|
 | 🪟 Windows | \`IXL_Windows.exe\` | Double-click to run. (If Defender flags it: More Info → Run Anyway) |
-| 🍎 Mac | \`Start_Mac.command\` | Right-click → Open → Open again on warning. Requires Python 3 + Chrome |
-| 🐧 Linux | \`Start_Linux.sh\` | Right-click → Properties → Permissions → "Allow executing". Requires Python 3 + Chrome |
+| 🍎 Mac | \`Start_Mac.command\` | Right-click → Open → Open again on warning. Requires Chrome |
+| 🐧 Linux | \`Start_Linux.sh\` | Right-click → Properties → Permissions → "Allow executing". Requires Chrome |
 
 **Prerequisites for Mac/Linux:**
-* Python 3.10+ installed
 * Google Chrome installed
-* Terminal access
 
 ## ⚙️ Setup & Configuration
 
@@ -181,14 +119,23 @@ Check **Disguise Mode** to hide the IXL interface and reveal a fully functional 
 * **Order of Operations:** Use \`(\` and \`)\` buttons
 * **Exit:** Click orange \`BACK\` button or press keyboard \`Backspace\`
 
+## 📖 Documentation
+
+For more in-depth information, check out these detailed guides:
+
+* 📜 **[Changelog](https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/blob/main/CHANGELOG.md)** - See what's new in the latest versions.
+* ❓ **[FAQ](https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/blob/main/FAQ.md)** - Frequently asked questions and common troubleshooting.
+* 🛡️ **[Security Policy](https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/blob/main/SECURITY.md)** - Reporting vulnerabilities and security practices.
+* 🤝 **[Contributing Guide](https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/blob/main/CONTRIBUTING.md)** - Detailed rules and setup for contributors.
+
 ## 🤝 Contributing
-This project is open source and welcomes contributions!
+This project is open source and welcomes contributions! For full guidelines, read the **[Contributing Guide](https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/blob/main/CONTRIBUTING.md)**.
 
 ### 🐛 Found a Bug?
-1. Go to the [Issues](https://github.com/) tab
+1. Go to the [Issues](https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/issues) tab
 2. Click **New Issue**
 3. Select the appropriate template (Bug Report / Feature Request)
-4. Fill in details: OS, Python version, error logs, steps to reproduce
+4. Fill in details: OS, error logs, steps to reproduce
 5. Submit! I'll review and respond ASAP.
 
 ### 💡 Want to Add a Feature?
@@ -221,5 +168,19 @@ This software is an educational project designed to demonstrate web automation, 
 
 <div align="center"><br><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/><br>
 Built with ❤️ and 🧠<br>
-IXL God Mode Project · <a href="https://github.com/">GitHub</a> · <a href="https://github.com/">Issues</a>
+IXL God Mode Project · <a href="https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/tree/main">GitHub</a> · <a href="https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/issues">Issues</a>
 </div>`;
+
+        // Create a Blob object representing the data contained in the string
+        const blob = new Blob([readmeContent], { type: 'text/markdown' });
+
+        // Create a URL representing the Blob
+        const url = URL.createObjectURL(blob);
+
+        // Set the href and download attributes of the anchor tag
+        const downloadLink = document.getElementById('downloadLink');
+        downloadLink.href = url;
+        downloadLink.download = 'README.md';
+    </script>
+</body>
+</html>
