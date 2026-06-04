@@ -1,4 +1,4 @@
-# Contributing to IXL God Mode
+# Contributing to IXLAutoAnswerBot
 
 First off, thanks for taking the time to contribute! 🚀
 
