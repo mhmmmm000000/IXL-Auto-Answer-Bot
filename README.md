@@ -23,12 +23,12 @@
 
 <div align="center">
 
-<img src="previews/preview.png" alt="IXL God Mode Main Interface" width="850">
+<img src="images/previews/preview.png" alt="IXL God Mode Main Interface" width="850">
 <p><i>The Main Automation Interface & Grade Farming Dashboard</i></p>
 
 <br>
 
-<img src="previews/preview1.png" alt="IXL God Mode Disguise Mode" width="850">
+<img src="images/previews/preview1.png" alt="IXL God Mode Disguise Mode" width="850">
 <p><i>Stealth Disguise Mode (Transforms into a fully working Calculator)</i></p>
 
 </div>
