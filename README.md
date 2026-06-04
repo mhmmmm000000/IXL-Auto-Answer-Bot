@@ -23,24 +23,17 @@
 
 <div align="center">
 
-\`\`\`text
-╔════════════════════════════════════════════════════╗
-║  IXL God Mode                     [ _ ] [ □ ] [ X ]║
-╠════════════════════════════════════════════════════╣
-║  HF Token: [hf_****************************] [Save]║
-║  [🟢 Launch Browser]      [🔵 Farm Grade]          ║
-║                                                    ║
-║  Status: Finishing Skill...  Queue: 14/350         ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║  AI Solution & Steps:                              ║
-║  FINAL ANSWER: x = -5                              ║
-║  1. Isolate the variable...                        ║
-║                                                    ║
-║             ⚠️ PANIC MODE (F12) ⚠️                ║
-╚════════════════════════════════════════════════════╝
-\`\`\`
-*Disguise Mode transforms the interface into a fully working calculator*
+<img src="previews/preview.png" alt="IXL God Mode Main Interface" width="850">
+<p><i>The Main Automation Interface & Grade Farming Dashboard</i></p>
+
+<br>
+
+<img src="previews/preview1.png" alt="IXL God Mode Disguise Mode" width="850">
+<p><i>Stealth Disguise Mode (Transforms into a fully working Calculator)</i></p>
+
 </div>
+
+---
 
 ## ✨ Features
 
@@ -170,17 +163,3 @@ This software is an educational project designed to demonstrate web automation, 
 Built with ❤️ and 🧠<br>
 IXL God Mode Project · <a href="https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/tree/main">GitHub</a> · <a href="https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/issues">Issues</a>
 </div>`;
-
-        // Create a Blob object representing the data contained in the string
-        const blob = new Blob([readmeContent], { type: 'text/markdown' });
-
-        // Create a URL representing the Blob
-        const url = URL.createObjectURL(blob);
-
-        // Set the href and download attributes of the anchor tag
-        const downloadLink = document.getElementById('downloadLink');
-        downloadLink.href = url;
-        downloadLink.download = 'README.md';
-    </script>
-</body>
-</html>
