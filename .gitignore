@@ -1,0 +1,10 @@
+# NEVER push secrets or browser data
+ixl_config.json
+ixl_browser_profile/
+
+# Ignore compiled files and cache
+__pycache__/
+*.exe
+dist/
+build/
+*.spec
