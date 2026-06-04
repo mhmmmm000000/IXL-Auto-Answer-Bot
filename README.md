@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=IXL%20God%20Mode&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI-Powered%20Math%20Automation%20Suite%20%7C%20Stealth%20GUI%20%7C%20Cross-Platform&descSize=16&descAlignY=55&descColor=ccc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=IXLAutoAnswerBot&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=✦%20AI-Powered%20Math%20Automation%20✦%20Stealth%20GUI%20✦%20Cross-Platform&descSize=18&descAlignY=55&descColor=e2e8f0&fontAlign=50"/>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-FF4B4B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/TomSchimansky/CustomTkinter)
@@ -23,12 +23,12 @@
 
 <div align="center">
 
-<img src="images/previews/preview.png" alt="IXL God Mode Main Interface" width="850">
+<img src="images/previews/preview.png" alt="IXLAutoAnswerBot" width="850">
 <p><i>The Main Automation Interface & Grade Farming Dashboard</i></p>
 
 <br>
 
-<img src="images/previews/preview1.png" alt="IXL God Mode Disguise Mode" width="850">
+<img src="images/previews/preview1.png" alt="IXLAutoAnswerBot Mode" width="850">
 <p><i>Stealth Disguise Mode (Transforms into a fully working Calculator)</i></p>
 
 </div>
@@ -159,7 +159,7 @@ This software is an educational project designed to demonstrate web automation, 
 
 **Use at your own risk.**
 
-<div align="center"><br><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/><br>
+<div align="center"><br><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=IXLAutoAnswerBot&fontSize=24&fontColor=fff&fontAlignY=75&desc=Built%20with%20%E2%9D%A4%EF%B8%8F%20and%20%F0%9F%A7%A0&descSize=12&descAlignY=90&descColor=ccc&animation=twinkling"/><br>
 Built with ❤️ and 🧠<br>
-IXL God Mode Project · <a href="https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/tree/main">GitHub</a> · <a href="https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/issues">Issues</a>
+IXLAutoAnswerBot Project · <a href="https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/tree/main">GitHub</a> · <a href="https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot/issues">Issues</a>
 </div>`;
