@@ -1,0 +1,32 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2026 IXL God Mode Contributors
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+ADDITIONAL TERMS & DISCLAIMER (Section 7 of GPL-3.0)
+
+This software is an educational project designed to demonstrate web automation, 
+DOM manipulation, and AI integration using Python and Selenium.
+
+1. This tool is NOT affiliated with, endorsed by, or sponsored by IXL Learning.
+2. This tool is NOT intended to interfere with IXL's services, disrupt educational 
+   experiences, or bypass classroom rules.
+3. The creator does NOT condone using this tool to gain unfair academic advantage.
+4. ANY MISUSE IS SOLELY THE RESPONSIBILITY OF THE USER.
+5. Usage of automation tools can violate the Terms of Service of IXL, which may 
+   lead to account suspension. USE AT YOUR OWN RISK.
